@@ -4,7 +4,7 @@
   
 - 👦 Eu sou <strong>William_santos</strong> Recife <strong>Pernambuco</strong>
 
-- 🔭 <strong>Informações sobre sua /curso full stack</strong>
+- 🔭 <strong>/cursando full stack</strong>
 
 - 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (backend, git-github)</strong>
 
